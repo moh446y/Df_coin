@@ -1,6 +1,9 @@
 import requests
 import json
 import time
+import keep_alive
+keep_alive.keep_alive()
+
 
 url = "https://bfdcoin.org/api.php"
 

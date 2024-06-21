@@ -11,7 +11,7 @@ params = {
     'act': "collectCoin"
 }
 
-payload = json.dumps(89)
+payload = json.dumps(100)
 
 headers_template = {
     'User-Agent': "Mozilla/5.0 (Linux; Android 13; M2101K9AG Build/TKQ1.221013.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/125.0.6422.82 Mobile Safari/537.36",
